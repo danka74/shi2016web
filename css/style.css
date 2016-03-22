@@ -12,7 +12,9 @@ nav ul a, nav .brand-logo {
 p {
 	line-height: 2rem;
 }
-
+.collapsible-header {
+	line-height: 2rem;
+}
 .table-day {
 	background-color: #eeeeee;
 	vertical-align: top;
